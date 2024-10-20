@@ -1,0 +1,290 @@
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Aarti
+                                                 Please Enter Contact No : 7758
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Aditya
+                                                 Please Enter Contact No : 5783
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Cat  
+                                                 Please Enter Contact No : 9876
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Vijay 
+                                                 Please Enter Contact No : 9034
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Vikas
+                                                 Please Enter Contact No : 3459
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Aarti
+                                                 Please Enter Contact No : 7758
+
+                                                 Data already exists
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 2
+                                                 Please Enter name to check: Aarti
+
+                                                 Contact exists 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 2
+                                                 Please Enter name to check: Adi
+
+                                                 Contact does not exist !! 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 3
+                                                 Please Enter prefix to check: Vi
+
+                                                 Contact exists with this prefix!! 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 3
+                                                 Please Enter prefix to check: Ak
+
+                                                 Contact does not exist with this prefix!! 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 5
+                                                 Please Enter the prefix: Vi
+                                                 Vijay
+                                                 Vikas
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 5
+                                                 Please Enter the prefix: Aad
+
+                                                 Invalid!! Please Enter a valid Prefix
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 4
+                                                 Please Enter name to delete : Vikas
+
+                                                 Data Deleted Successfully 
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 4
+                                                 Please Enter name to delete : Adityaa
+
+                                                 Invalid!! Please Enter a valid name
+
+                                        --------------------------------------------
+                                        |          PHONE BOOK APPLICATION          |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |                                          |
+                                        --------------------------------------------
+                                        |            [6]    Exit                   |
+                                        --------------------------------------------
+
+                                        Enter your choice : 6
+
+                                                        THANK YOU !
